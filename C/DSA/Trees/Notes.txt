@@ -1,0 +1,8 @@
+-->Terminology
+1) Root - Top most Node
+2) Parent - Node which connects to the child
+3) Child - Node which is connected by prev node is called child node
+4) Leaf/External Node - Node with No children
+5) Internal Node - Node with atleast One child
+6) Depth - Number of edges from root to node is called Depth
+7) Height - Number of edges from root to the deepest Leaf is called Height
