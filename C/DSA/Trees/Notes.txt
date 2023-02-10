@@ -9,3 +9,14 @@
 8) Siblings - Child Nodes having same Parent are Siblings of each other
 9) Ancestors - Nodes above perticular node are Ancestors of that node
 10) descendants - Nodes below perticular node are descendants of that node
+11) Degree - Number of children of a node is called Degree of that node
+
+
+
+
+
+-----> BINARY TREE - tree which has atmost 2 children for all the Nodes
+--> Degree Allowed - 0,1,2.
+--> tree is made up of nodes and edges
+--> N nodes => N-1 edges
+--> Degree of a tree is the highest Degree of a node among all the nodes present in the tree
