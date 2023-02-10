@@ -28,3 +28,8 @@
 3) Complete Binary tree - all levels are Completely filled except possible last level + last level must have its child as left as possible
 4) Degenerate tree - Parent node has exactly 1 child at either side
 5) Skewed tree - left/right Skewed - all child node of Degenerate tree are at left/right side
+
+
+======> REPRESENTATION OF BINARY TREE <======
+1) Array Representation
+2) Linked Representation --> using node Structure
