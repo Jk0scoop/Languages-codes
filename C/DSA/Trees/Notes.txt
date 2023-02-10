@@ -10,9 +10,10 @@
 9) Ancestors - Nodes above perticular node are Ancestors of that node
 10) descendants - Nodes below perticular node are descendants of that node
 11) Degree - Number of children of a node is called Degree of that node
+12) Level - A level is the number of parent nodes corresponding to a given a node of the tree /  It is basically the number of ancestors from that node until the root node -- Root node level 0.
 
 
-
+======> NONE LINEAR DATA STRUCTURE <======
 
 
 -----> BINARY TREE - tree which has atmost 2 children for all the Nodes
@@ -20,3 +21,10 @@
 --> tree is made up of nodes and edges
 --> N nodes => N-1 edges
 --> Degree of a tree is the highest Degree of a node among all the nodes present in the tree
+
+----> Types of BINARY TREE
+1) Full/Strict Binary tree - all nodes have either 0 or 2 children
+2) Perfect Binary tree - all Internal Nodes have exactly 2 nodes + all Leaf nodes are on same Level
+3) Complete Binary tree - all levels are Completely filled except possible last level + last level must have its child as left as possible
+4) Degenerate tree - Parent node has exactly 1 child at either side
+5) Skewed tree - left/right Skewed - all child node of Degenerate tree are at left/right side
