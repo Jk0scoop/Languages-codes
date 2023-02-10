@@ -6,3 +6,6 @@
 5) Internal Node - Node with atleast One child
 6) Depth - Number of edges from root to node is called Depth
 7) Height - Number of edges from root to the deepest Leaf is called Height
+8) Siblings - Child Nodes having same Parent are Siblings of each other
+9) Ancestors - Nodes above perticular node are Ancestors of that node
+10) descendants - Nodes below perticular node are descendants of that node
