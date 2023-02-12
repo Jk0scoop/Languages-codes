@@ -19,6 +19,12 @@ struct node* createNode(int data)
     return n;
 }
 
+//leftInsert Function
+void leftInsert(int data, struct node* p)
+{
+    struct node* temp = createNode(data);
+    p->left = temp;
+}
 
 int main()
 {
