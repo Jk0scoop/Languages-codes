@@ -31,9 +31,9 @@ int dequeue(struct queue *q)
     }
     else
     {
-        //reset
         q->f = q->f + 1;
         a = q->arr[q->f];
+        //reset
         if(q->r == q->f)
         {
             q->r = q->f = -1;
